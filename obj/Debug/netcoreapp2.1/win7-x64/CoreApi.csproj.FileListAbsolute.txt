@@ -1,0 +1,34 @@
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.csprojAssemblyReference.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.csproj.CoreCompileInputs.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.RazorAssemblyInfo.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.RazorAssemblyInfo.cs
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.AssemblyInfoInputs.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.AssemblyInfo.cs
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.exe
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.deps.json
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.runtimeconfig.json
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.runtimeconfig.dev.json
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.dll
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.pdb
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.dll
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi new\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.pdb
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.exe
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.deps.json
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.runtimeconfig.json
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.runtimeconfig.dev.json
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.dll
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\bin\Debug\netcoreapp2.1\win7-x64\CoreApi.pdb
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.csprojAssemblyReference.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.csproj.CoreCompileInputs.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.RazorAssemblyInfo.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.RazorAssemblyInfo.cs
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.AssemblyInfoInputs.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.AssemblyInfo.cs
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.RazorTargetAssemblyInfo.cache
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.dll
+C:\Users\nguyenphucliem\Desktop\30.7\CoreApi\obj\Debug\netcoreapp2.1\win7-x64\CoreApi.pdb
